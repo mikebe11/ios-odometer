@@ -38,7 +38,7 @@ This table lists some properties shown in the example's ViewController.m file th
 ||value: 0-255|
 ||default: black|
 ||ex. {10, 20, 30, 255}|
-|fontSize|size in dp|
+|fontSize|size in points|
 ||default: 48|
 |duration|Time, in seconds, for an odometer counter to scroll by 1|
 ||default: .3|
