@@ -4,7 +4,7 @@ ios-odometer is an Objective-C library for an odometer type animation
 
 ## Example
 
-![](https://)
+![](https://github.com/mikebe11/ios-odometer/blob/master/ios-odometer.gif?raw=true)
 
 An example Xcode project can be found in the example folder. The minimum version of Xcode it was tested with was version 11.3.1
 
